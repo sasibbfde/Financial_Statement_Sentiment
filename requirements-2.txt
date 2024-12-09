@@ -1,0 +1,6 @@
+numpy<2
+transformers
+pyngrok==6.0.0
+Flask
+torch
+tensorflow-aarch64==2.10.1
